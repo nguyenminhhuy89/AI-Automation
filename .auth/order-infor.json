@@ -1,0 +1,19 @@
+{
+  "orderId": "2174001",
+  "products": [
+    {
+      "name": "Computing and Internet",
+      "price": 10,
+      "quantity": 1
+    },
+    {
+      "name": "14.1-inch Laptop",
+      "price": 1590,
+      "quantity": 1
+    }
+  ],
+  "orderTotal": "1607.00",
+  "orderStatus": "Pending",
+  "paymentMethod": "Cash On Delivery (COD)",
+  "orderDate": "28/12/2025"
+}
