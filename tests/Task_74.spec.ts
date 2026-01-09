@@ -90,9 +90,6 @@ test.describe('verify order page', () => {
 
     // verify danh sách sản phẩm sau khi thêm sẽ tăng thêm 1
 
-    
-
-    
-
+    // thêm Testcasse
 
 })
