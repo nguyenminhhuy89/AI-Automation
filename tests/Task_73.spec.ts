@@ -2,7 +2,7 @@ import { expect} from "playwright/test";
 import { commonLocators } from "./Page/elements.page";
 import { test } from '../fixtures/myfixture'
 import { PRODUCTS } from "../datatest/products";
-
+// sang
 test.describe('Access to "Shopping cart" then remove and editting product quantity', () => {
     test.use({ storageState: ".auth/customer01.json" })
     test('Navigated to Shopping cart with 2 products already available',{tag:'@test_order',}, async ({ cartPageWith2Products }) => {
