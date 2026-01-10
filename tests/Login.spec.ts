@@ -3,6 +3,8 @@ import { LoginPage } from "./Page/Login.page";
 import * as testdata from '../.auth/user01.json';
 import { chromium } from 'playwright';
 
+// Quyen da o day
+
 test('Test login authen file', async ({ context }) => {
   const browser = await chromium.launch({
     headless: false,
