@@ -253,13 +253,7 @@ return false;
       console.log('✅ All products match!');
     } else {
       console.log('❌ Products do not match!');
-    }
-    
+    }   
     return allMatch;
-    
-    
-
-
-
   }
 }
